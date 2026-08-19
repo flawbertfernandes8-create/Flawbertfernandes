@@ -55,5 +55,3 @@ Atualmente cursando a graduação.
 📧 Email: flawbertfernandes8@gmail.com
 
 ---
-
-⭐ Se algum dos meus projetos for útil para você, fique à vontade para deixar uma estrela!
