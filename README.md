@@ -33,6 +33,13 @@ Estou focado em evoluir minha **lógica de programação**, aprofundar meus conh
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia e continuar aprendendo constantemente.
 
+## 📦 Projeto - Controle de Estoque
+
+Sistema de controle de estoque desenvolvido em **Python** e executado pelo terminal. O projeto permite **cadastrar, consultar, atualizar e remover produtos**, além de controlar suas respectivas quantidades em estoque.
+
+Foi desenvolvido com o objetivo de praticar **lógica de programação e conceitos básicos de Python**.
+
+
 ## 📚 Formação
 
 🎓 **Análise e Desenvolvimento de Sistemas — Unicsul**
