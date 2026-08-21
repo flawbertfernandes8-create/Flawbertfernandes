@@ -10,8 +10,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minh
 
 Atualmente trabalho na área de **Controladoria**, onde tenho contato com processos financeiros, comerciais, Excel e análise de informações. Essa experiência despertou ainda mais meu interesse por **dados, automação e tecnologia aplicada aos negócios**.
 
-Na faculdade, venho desenvolvendo meus conhecimentos em **lógica de programação, algoritmos e desenvolvimento de software**, principalmente utilizando Python.
-
 Gosto de aprender na prática, desenvolver projetos e transformar problemas em soluções através da tecnologia.
 
 ## 💻 Tecnologias e conhecimentos
@@ -24,34 +22,29 @@ Gosto de aprender na prática, desenvolver projetos e transformar problemas em s
 
 ### Ferramentas e tecnologias
 
-* 📊 Microsoft Excel
+* 📊 Excel
 * 🗃️ Git & GitHub
 * 🎨 Figma
-* 🐍 Automação com Python
-
-## 📊 Áreas que me interessam
-
-* 💻 Desenvolvimento de Software
 * 🐍 Python
-* 📊 Análise de Dados
-* 🤖 Automação de processos
-* 🗄️ Banco de Dados
-* 📈 Tecnologia aplicada aos negócios
 
 ## 🎯 Atualmente
 
-Estou focado em evoluir minha **lógica de programação**, aprofundar meus conhecimentos em **Python e C**, aprender mais sobre **bancos de dados** e começar a desenvolver projetos cada vez mais completos.
+Estou focado em evoluir minha **lógica de programação**, aprofundar meus conhecimentos em **Python**, aprender mais sobre **bancos de dados** e começar a desenvolver projetos cada vez mais completos.
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia e continuar aprendendo constantemente.
 
 ## 📚 Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas — UniSul**
+🎓 **Análise e Desenvolvimento de Sistemas — Unicsul**
 
 Atualmente cursando a graduação.
 
 ## 📫 Contato
 
+💼 LinkedIn: 
+
 📧 Email: flawbertfernandes8@gmail.com
 
 ---
+
+⭐ Se algum dos meus projetos for útil para você, fique à vontade para deixar uma estrela!
