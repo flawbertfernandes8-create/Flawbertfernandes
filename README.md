@@ -48,7 +48,7 @@ Atualmente cursando a graduação.
 
 ## 📫 Contato
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/flawbert-fernandes-b59a26357
 
 📧 Email: flawbertfernandes8@gmail.com
 
